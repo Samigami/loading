@@ -133,10 +133,10 @@ ${kuning}[-] resiko sepenuhnya di tanggung pengguna
 
 $system_faucet=true;
 
-$buzzbeat = "${biru}[-] server${ijo} online
+$buzzbeat = "${biru}[-] server${ijo} offline
 ${biru}[-] join groub${ijo} https://bit.ly/31yWi6x
-${merah}[script]${putih} buzzbeat
-${biru}[creator]${putih} Waryono${biru} [version]${putih} 2.0
+${merah}[script]${putih} buzzbeak
+${biru}[creator]${putih} sami${biru} [version]${putih} 2.0
 ${putih}- - - - - - - - - - - - - - - - - - - - -
 ${putih}- Subscribe My Channel [${ijo}Waryono Ok${putih}]
 -${ijo} Thank you so much for subscribe
